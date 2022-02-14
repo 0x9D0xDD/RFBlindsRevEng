@@ -54,8 +54,11 @@ Message Commands
 
 From recording each button press, it is possible to determine that the remote sends the following command messages.
 
-
-
+| Message | Binary | Decimal | Hex |
+| --- | ----------- | --------- | ------- | 
+| Up | 00010001 | 17 | 0x11 | 
+| Down | 00110011 | 51 | 0x33 | 
+| Stop | 01010101 | 85 | 0x55 | 
 
 
 
